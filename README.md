@@ -23,4 +23,4 @@ plt.style.use('./prettyplots.mplstyle')
 
 ### You can try this remotely using Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epifanio/prettyplots/master?filepath=prettyplots.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yobibyte/prettyplots/master?filepath=prettyplots.ipynb)
